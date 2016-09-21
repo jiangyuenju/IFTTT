@@ -13,3 +13,16 @@ MySQL </br>
 4. 在浏览器中输入http://localhost:8080/Task3访问网站
 
 ###  运行截图
+登录界面如下<br>
+![](https://github.com/jiangyuenju/IFTTT/blob/master/images/login.png)<br>
+<br>
+注册界面<br>
+![](https://github.com/jiangyuenju/IFTTT/blob/master/images/signup.png)<br>
+<br>
+新建任务界面<br>
+![](https://github.com/jiangyuenju/IFTTT/blob/master/images/newtask.png)<br>
+<br>
+![](https://github.com/jiangyuenju/IFTTT/blob/master/images/newtask2.png)<br>
+<br>
+查看任务界面<br>
+![](https://github.com/jiangyuenju/IFTTT/blob/master/images/tasks.png)<br>
